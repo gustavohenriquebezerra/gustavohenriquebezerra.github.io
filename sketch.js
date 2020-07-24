@@ -803,7 +803,7 @@ function desafio1dificil(){
   textSize(12)
   stroke(0);
   strokeWeight(2)
-  text("A Proclamação da República foi realizada no 15 de novembro como"+"\n"+" resultado da mobilização de republicanistas e dos militares contra a"+"\n"+" monarquia. A Proclamação da República foi realizada por:",200,20)
+  text("A Proclamação da República foi realizada no 15 de novembro como"+"\n"+" resultado da mobilização de republicanistas e dos militares contra a"+"\n"+" monarquia. Este evento foi anunciado por:",200,20)
   
   textAlign(LEFT)
   textSize(16)
