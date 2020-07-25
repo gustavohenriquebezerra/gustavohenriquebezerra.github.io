@@ -2758,7 +2758,7 @@ function pergunta10dificil(){
   textSize(12)
   stroke(0);
   strokeWeight(2)
-  text("A saudação 'Anauê' foi inicialmente adotada pelos escoteiros do Brasil"+"\n"+"em 1923, mas na década seguinte ganhou valor de ufanismo ao ser"+"\n"+"utilizada por qual movimento político?",200,20)
+  text("A saudação 'Anauê' foi inicialmente adotada pelos Escoteiros do Brasil"+"\n"+"em 1923, mas na década seguinte ganhou valor de ufanismo ao ser"+"\n"+"utilizada por qual movimento político?",200,20)
   
   textAlign(LEFT)
   textSize(12)
