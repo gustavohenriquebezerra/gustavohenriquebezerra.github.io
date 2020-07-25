@@ -487,7 +487,7 @@ function instruçoes(){ //DESCRIÇÃO DO JOGO
   textSize(14)
   stroke(20)
   strokeWeight(2)
-  text("The Walking History é um jogo em forma de Quiz em que o  " + "\n" + " player tem como objetivo salvar o cachorro Samukinha do" + "\n" + "Zumbi. E para o Rick Grimes salvá-lo, será exigido de você"+ "\n" + "certos conhecimentos da história republicana brasileira," + "\n" + "em uma série de perguntas de múltipla escolha."+ "\n" +"" + "\n" + "A cada acerto, o personagem Rick avançará."+ "\n" +"A cada erro, o zumbi irá avançar na direção de Samuka. "+ "\n" +"Caso o jogador venha a errar 3 perguntas:"+ "\n" +"DERROTA"+ "\n" +"Caso contrário:"+ "\n" +"VITÓRIA",200,50)
+  text("The Walking History é um jogo em forma de Quiz em que o  " + "\n" + " player tem como objetivo salvar o cachorro Samukinha do" + "\n" + "Zumbi. E para o Rick Grimes salvá-lo, será exigido de você"+ "\n" + "certos conhecimentos da história republicana brasileira" + "\n" + "em uma série de perguntas de múltipla escolha."+ "\n" +"" + "\n" + "A cada acerto, o personagem Rick avançará."+ "\n" +"A cada erro, o zumbi irá avançar na direção de Samuka. "+ "\n" +"Caso o jogador venha a errar 3 perguntas:"+ "\n" +"DERROTA"+ "\n" +"Caso contrário:"+ "\n" +"VITÓRIA",200,50)
 
   textAlign(CENTER);
   textSize(25)
