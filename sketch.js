@@ -2615,7 +2615,7 @@ function pergunta7dificil(){
   textSize(12)
   stroke(0);
   strokeWeight(2)
-  text("A Revolução Federalista, ocorrida entre 1893 e 1895, no Rio Grande do"+"\n"+"Sul,contra o governo de Júlio de Castilhos, que era apoiado pelo"+"\n"+"Poder Federal,tinha como reivindicação principal:",200,20)
+  text("A Revolução Federalista, ocorrida entre 1893 e 1895 no Rio Grande do"+"\n"+"Sul contra o governo de Júlio de Castilhos, apoiado pelo Poder Federal,"+"\n"+"tinha como reivindicação principal:",200,20)
   
   textAlign(LEFT)
   textSize(12)
