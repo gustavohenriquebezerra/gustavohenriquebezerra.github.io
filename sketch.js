@@ -3597,7 +3597,7 @@ function keyPressed(){ //FUNÇÕES DE TECLADO
     tempo = 0
     xSamuka = 180
     cont3 = 0
-    raio = 0
+    raio = 1
 }}
 
 function mouseClicked(){
